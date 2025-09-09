@@ -1,0 +1,23 @@
+supermarket-order-system/
+│
+├── index.html          # الصفحة الرئيسية
+├── styles/
+│   └── main.css        # ملف الأنماط الرئيسي
+├── js/
+│   └── script.js       # ملف الجافاسكريبت الرئيسي
+├── images/
+│   ├── products/
+│   │   ├── rice.jpg
+│   │   ├── olive-oil.jpg
+│   │   ├── sugar.jpg
+│   │   ├── flour.jpg
+│   │   ├── pasta.jpg
+│   │   ├── milk.jpg
+│   │   ├── eggs.jpg
+│   │   ├── bread.jpg
+│   │   ├── water.jpg
+│   │   ├── tea.jpg
+│   │   ├── coffee.jpg
+│   │   └── cleaner.jpg
+│   └── logo.png        # لوجو المتجر
+└── README.md           # ملف التعليمات
